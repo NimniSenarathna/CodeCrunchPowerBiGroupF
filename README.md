@@ -1,3 +1,5 @@
+## Deployed URl - [ClickHere](https://app.powerbi.com/view?r=eyJrIjoiNmFiOGU3ZWEtNTcxNS00OGRjLTk5N2QtYWFmY2JlMjA4NmE3IiwidCI6ImQ1ZTc2OWIwLWZkMTktNDVlNC1hNGE4LWI3MzU0NTQ1MDIzNCIsImMiOjEwfQ%3D%3D&pageName=ReportSection).
+
 ## Instructions
 1. **Download the Power BI Desktop:**
    - If you don't have Power BI Desktop installed, download and install it from [here](https://powerbi.microsoft.com/desktop/).
